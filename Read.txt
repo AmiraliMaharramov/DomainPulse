@@ -1,0 +1,48 @@
+Gelişmiş BD Domain ve Hosting Takip Sistemi
+Müşterilerinizi kolayca takip edebilirsiniz..
+
+ Genel Özellikler:
+Domain süre takip sistemi
+Hosting süre takip sistemi
+Müşteri bazlı domain yönetimi
+Borç takip modülü
+Whois bilgi görüntüleme
+Otomatik e-posta bildirimleri
+Responsive (mobil uyumlu) tasarım
+
+ Domain ve Hosting Takip Özellikleri:
+Domain ekleme/silme/düzenleme
+Her domain için müşteri ismi kaydı
+Hosting ekleme/silme/düzenleme
+Otomatik süre hesaplama (kaç gün kaldı)
+Durum göstergeleri (Aktif, Yakında Dolacak, Süresi Dolmuş)
+Whois bilgilerini modal pencerede görüntüleme
+
+ Borç Takip Özellikleri:
+Müşteri adı, borç miktarı ve neden kaydı
+Basit borç listesi
+Toplam borç hesaplama
+Borç silme işlemi
+
+ E-posta Bildirimleri :
+SMTP mail desteği
+Özelleştirilebilir bildirim günleri (30, 15, 7, 5, 4, 3, 2, 1 gün kala mail gelicektir)
+Gmail, SMTP desteği
+Teknik Özellikler:
+PHP 7.0+ uyumlu
+MySQL veritabanı
+
+
+Admin Panel Bilgileri:
+Kullanıcı adı : admin
+Şifre : 123456
+NOT:com.tr/net.tr/org.tr gibi domainlerin bazıları kabul etmiyor manuel olarak tarihi ekleyebilirsiniz.
+
+
+
+
+
+
+
+https://instant.who.sb/api/v1/whois?domain=example.com&cache=false&return-prices=false
+Ayrıca api olarak bunu kullanabilirsin .com.tr domainler dahil çalışmaktadır
